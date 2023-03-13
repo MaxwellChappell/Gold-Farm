@@ -56,6 +56,8 @@ h2 {
     justify-content: center;
 }
 
+/* @todo use a class instead of id for all the similar stylings*/
+
 #finnfield, #oliverfield, #mohjogroup, #mohjocat,#catrated,#apollonec{
     height:auto;
     width:40%;
