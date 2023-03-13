@@ -1,0 +1,22 @@
+div {
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 10px;
+}
+
+#trainingpics {
+    width: 100%;
+    height: auto;
+}
+
+#finnfield {
+    display: inline-block;
+    width: 50%;
+    height: auto;
+}
+
+#oliverfield {
+    display: inline-block;
+    width: 50%;
+    height: auto;
+}
